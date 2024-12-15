@@ -1,0 +1,7 @@
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\echo_server\bin\Debug\echo_server.exe.config
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\echo_server\bin\Debug\echo_server.exe
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\echo_server\bin\Debug\echo_server.pdb
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\echo_server\obj\Debug\echo_server.csproj.AssemblyReference.cache
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\echo_server\obj\Debug\echo_server.csproj.CoreCompileInputs.cache
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\echo_server\obj\Debug\echo_server.exe
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\echo_server\obj\Debug\echo_server.pdb

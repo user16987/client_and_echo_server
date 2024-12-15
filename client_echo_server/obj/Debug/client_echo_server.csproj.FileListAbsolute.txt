@@ -1,0 +1,10 @@
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\client_echo_server\bin\Debug\client_echo_server.exe.config
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\client_echo_server\bin\Debug\client_echo_server.exe
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\client_echo_server\bin\Debug\client_echo_server.pdb
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\client_echo_server\obj\Debug\client_echo_server.csproj.AssemblyReference.cache
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\client_echo_server\obj\Debug\client_echo_server.Form1.resources
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\client_echo_server\obj\Debug\client_echo_server.Properties.Resources.resources
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\client_echo_server\obj\Debug\client_echo_server.csproj.GenerateResource.cache
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\client_echo_server\obj\Debug\client_echo_server.csproj.CoreCompileInputs.cache
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\client_echo_server\obj\Debug\client_echo_server.exe
+C:\Users\Светлана Клименко\Desktop\Study\parallel and distributed computing\echo server app\client_echo_server\obj\Debug\client_echo_server.pdb
